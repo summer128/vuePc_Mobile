@@ -9,7 +9,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to mobile'
+      msg: 'Welcome to mobile--移动端'
     }
   }
 }
