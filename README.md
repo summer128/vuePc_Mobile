@@ -1,12 +1,3 @@
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
 遇见的问题集合
 1.PC端网址不能带有#符号
   //如果就只设置mode: 'history',PC端出现首页不显示问题
